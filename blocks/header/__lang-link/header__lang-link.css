@@ -3,7 +3,7 @@
   padding: 0;
   line-height: 28px;
   font-size: 24px;
-  display: inline;
+  /* display: inline; */
   font-weight: normal;
   font-style: normal;
   color: white;
@@ -19,6 +19,5 @@
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
-    display: inline; 
   }
 }

@@ -7,34 +7,29 @@
   color: white;
   padding-top: 0;
   padding-right: 0;
-  padding-left: 149px;
+  padding-left: 148px;
   padding-bottom: 92px;
  }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .intro {
-    padding-top: 0;
     padding-right: 48px;
-    padding-left: 48px;
-    padding-bottom: 92px;
+    padding-left: 48px;  
   }
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .intro {
-    padding-top: 0;
     padding-right: 24px;
     padding-left: 24px;
     padding-bottom: 88px;
   }
-} 
+}
 
 @media screen and (max-width: 425px) {
   .intro {
-    padding-top: 0;
     padding-right: 16px;
     padding-left: 16px;
     padding-bottom: 64px;
   }
-}
-
+} 
